@@ -1,0 +1,6 @@
+[submodule "itmo-web-lab4-back"]
+	path = itmo-web-lab4-back
+	url = https://github.com/foliageh/itmo-web-lab4-back.git
+[submodule "itmo-web-lab4-front"]
+	path = itmo-web-lab4-front
+	url = https://github.com/foliageh/itmo-web-lab4-front.git
