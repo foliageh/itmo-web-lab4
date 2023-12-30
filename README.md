@@ -2,8 +2,8 @@
 **Fullstack application on Jakarta EE (JAX-RS) & Angular, game to find the coordinates of hitting a specific area.**  
 Jakarta EE 10, JAX-RS (REST API), JPA, Security (WildFly Elytron, JWT), Angular 17, RxJS, TypeScript.
 
-<img src="https://github.com/foliageh/itmo-web-lab4/assets/46216950/1ee767e8-1170-4326-aaf0-de7784a48c1f" alt="image" width="330">
-<img src="https://github.com/foliageh/itmo-web-lab4/assets/46216950/2bd81da9-3928-4270-bc42-c5a75a252ee5" alt="image" width="675">
+<img src="https://github.com/foliageh/itmo-web-lab4/assets/46216950/7900419f-3e09-47db-b441-61c95821d755" alt="image" width="800"><br>
+<img src="https://github.com/foliageh/itmo-web-lab4/assets/46216950/2bd81da9-3928-4270-bc42-c5a75a252ee5" alt="image" width="800">
 
 ## Task
 Переписать приложение из предыдущей лабораторной работы с использованием следующих технологий:
